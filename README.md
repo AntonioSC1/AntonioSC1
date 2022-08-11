@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniosc1" alt="antoniosc1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/opsenpai3" target="blank"><img src="https://img.shields.io/twitter/follow/opsenpai3?logo=twitter&style=for-the-badge" alt="opsenpai3" /></a> </p>
+
 
 - 🔭 I’m currently working on **Front end projects**
 
@@ -26,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/www.linkedin.com/in/ antonio-sanchez-c-aba257247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="www.linkedin.com/in/ antonio-sanchez-c-aba257247" height="30" width="40" /></a>
-<a href="https://twitter.com/opsenpai3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="opsenpai3" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/antonio sanchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="antonio sanchez" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/antonio_sanchezcabrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="antonio_sanchezcabrera" height="30" width="40" /></a>
 <a href="https://discord.gg/Antonio_SanchezCabrera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Antonio_SanchezCabrera" height="30" width="40" /></a>
